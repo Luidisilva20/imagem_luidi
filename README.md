@@ -1,13 +1,13 @@
-# package_luidi
+# package_name
 
 Description. 
-The package package_luidi is used to:
+The package package_name is used to:
 	- 
 	-
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_luidi
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
 pip install package_luidi
@@ -16,7 +16,7 @@ pip install package_luidi
 ## Usage
 
 ```python
-from package_luidi import file1_luidi
+from package_name import file1_name
 file1_luidi.my_function()
 ```
 
